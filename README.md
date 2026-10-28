@@ -1,3 +1,11 @@
+<div align="center">
+  <img
+    src="assets/pardeep_github_banner.gif"
+    width="100%"
+    alt="Pardeep — Creative Technologist"
+  />
+</div>
+
 # Hey, I'm Pardeep 👋
 
 ### Creative Technologist | VFX Artist | Open-Source Explorer
