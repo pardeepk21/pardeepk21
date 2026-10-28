@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="assets/pardeep_github_banner.gif"
+    src="assets/pardeep_kumar_matrix_3d_github.gif"
     width="100%"
     alt="Pardeep — Creative Technologist"
   />
